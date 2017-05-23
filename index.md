@@ -1,5 +1,5 @@
-# Text Adventures Suite
-Text Adventures Suite is a authoring and interpreter of Text Adventures largely inspired on Steve Jackson and Ian Livingstone Fighting Fantasy series of game books in the 80s.
+## A Builder and a Runner 
+Text Adventures Suite is composed of 2 tools, one Builder where you author your game in the fashion of game books (a form or iteractive fiction) and a Runner, where you actually can play those IFs/games.
 
 ## Builder
 ![Builder](https://ghostsysoutnull.github.io/tas-dist/img/builder.jpg)
@@ -11,6 +11,7 @@ Text Adventures Suite is a authoring and interpreter of Text Adventures largely 
 ### Files to Run the Java Deskop Application
 * [Builder and Runner](https://github.com/ghostsysoutnull/tas-dist/blob/master/text-adventures-suite.jar)
 * [Sample Adventure to Import](https://github.com/ghostsysoutnull/tas-dist/blob/master/sample-quest.tas-adv.zip)
+* https://api.github.com/repos/ghostsysoutnull/tas-dist/zipball/master
 
 ## Project Source Code
 [text-adventures-suite at github](https://github.com/ghostsysoutnull/text-adventures-suite)
