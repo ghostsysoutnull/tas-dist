@@ -12,8 +12,11 @@ Text Adventures Suite is a authoring and interpreter of Text Adventures largely 
 * [Builder and Runner](https://github.com/ghostsysoutnull/tas-dist/blob/master/text-adventures-suite.jar)
 * [Sample Adventure to Import](https://github.com/ghostsysoutnull/tas-dist/blob/master/sample-quest.tas-adv.zip)
 
+## Project Source Code
+[text-adventures-suite at github](https://github.com/ghostsysoutnull/text-adventures-suite)
+
 ### Install Java Runtime
-https://java.com/download
+* [Download Java from Oracle](https://java.com/download)
 
 ## About me
 * [twitter](https://twitter.com/bpfurtado)
