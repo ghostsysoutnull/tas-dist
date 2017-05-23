@@ -11,7 +11,7 @@ Text Adventures Suite is composed of 2 tools, one Builder where you author your 
 ### Files to Run the Java Deskop Application
 * [Builder and Runner](https://github.com/ghostsysoutnull/tas-dist/blob/master/text-adventures-suite.jar)
 * [Sample Adventure to Import](https://github.com/ghostsysoutnull/tas-dist/blob/master/sample-quest.tas-adv.zip)
-* https://api.github.com/repos/ghostsysoutnull/tas-dist/zipball/master
+* [Source code zipball](https://api.github.com/repos/ghostsysoutnull/text-adventures-suite/zipball/master)
 
 ## Project Source Code
 [text-adventures-suite at github](https://github.com/ghostsysoutnull/text-adventures-suite)
