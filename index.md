@@ -1,3 +1,7 @@
+It is very feature complete and allows basic scripting for complementing more complex page logic.
+It supports Combats, Test your Luck (or any other skill), items, quantities of items, images on pages, etc.
+The only drawback it that you have to have Java RE installed, but it's just a download 68MB and a next/next/finish install.
+
 ## Download and Run the Application
 * [Install the Java Runtime](https://java.com/download)
 * Download the [Builder and Runner](https://github.com/ghostsysoutnull/tas-dist/blob/master/text-adventures-suite.jar)
