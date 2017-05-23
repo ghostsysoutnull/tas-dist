@@ -16,5 +16,5 @@ Text Adventures Suite is a authoring and interpreter of Text Adventures largely 
 https://java.com/download
 
 ## About me
-[My twitter](https://twitter.com/bpfurtado)
-[My Blog](http://bpfurtado.livejournal.com)
+* [twitter](https://twitter.com/bpfurtado)
+* [blog](http://bpfurtado.livejournal.com)
