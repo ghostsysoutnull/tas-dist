@@ -1,6 +1,7 @@
 ## Download and Run the Application
 * [Install the Java Runtime](https://java.com/download)
-* [Builder and Runner](https://github.com/ghostsysoutnull/tas-dist/blob/master/text-adventures-suite.jar)
+* Download the [Builder and Runner](https://github.com/ghostsysoutnull/tas-dist/blob/master/text-adventures-suite.jar)
+  * To execute: Right click >> Open With >> Java(TM) Plataform SE 
 * [Sample Adventure to Import](https://github.com/ghostsysoutnull/tas-dist/blob/master/sample-quest.tas-adv.zip)
 
 ## A Builder and a Runner 
