@@ -20,7 +20,3 @@ Text Adventures Suite is composed of 2 tools, one Builder where you author your 
 ## Source code 
 * [download the zipball](https://api.github.com/repos/ghostsysoutnull/text-adventures-suite/zipball/master)
 * [browse the folders/files](https://github.com/ghostsysoutnull/text-adventures-suite)
-
-## About me
-* [twitter](https://twitter.com/bpfurtado)
-* [blog](http://bpfurtado.livejournal.com)
